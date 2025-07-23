@@ -40,12 +40,12 @@ const Footer = () => {
             {/* Phone Images Section */}
             <div className="absolute bottom-0 right-0 flex items-end">
                 <img
-                    src="/public/images/Group 1171274793.png"
+                    src="/images/Group-1171274793.png"
                     alt="Phone UI 1"
                     className="h-[160px] sm:h-[180px] md:h-[220px] object-contain"
                 />
                 <img
-                    src="/public/images/Body.png"
+                    src="/images/Body.png"
                     alt="Phone UI 2"
                     className="h-[200px] sm:h-[230px] md:h-[270px] object-contain -ml-4 sm:-ml-6"
                 />

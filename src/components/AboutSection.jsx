@@ -31,7 +31,7 @@ const AboutSection = () => {
                     {/* Phone Images */}
                     <div className='relative z-10'>
                         <img 
-                         src="/public/images/Group 3.png"
+                         src="/images/Group-3.png"
                          alt="MyBindle App Interface"
                          width={600}
                          height={400}
