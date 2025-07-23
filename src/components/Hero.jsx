@@ -7,7 +7,7 @@ const Hero = () => {
           <div className="w-full flex justify-center pt-6 pb-4">
                 <span className="text-2xl md:text-3xl font-extrabold text-white flex items-center">
                     <img 
-                        src="/public/images/Group 2.png" 
+                        src="/public/images/Group-2.png" 
                         alt="MyBindle Logo"
                         className="h-8 mr-2" 
                     />
@@ -48,7 +48,7 @@ const Hero = () => {
                 <div className="relative">
   
                   <img
-                    src="/public/images/Group 1.png"
+                    src="/public/images/Group-1.png"
                     alt="MyBindle App Interface"
                     className="relative z-10 w-64 h-auto sm:w-80 md:w-96 lg:w-[400px] drop-shadow-2xl transform hover:scale-105 transition-transform duration-500"
                   />
