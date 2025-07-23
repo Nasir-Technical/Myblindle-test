@@ -3,11 +3,11 @@ import React from 'react';
 const Hero = () => {
     return (
       <section className="w-full min-h-screen bg-[#FF5349] text-white flex flex-col">
-          {/* Logo - Top Center */}
+          {/* Logo Section */}
           <div className="w-full flex justify-center pt-6 pb-4">
                 <span className="text-2xl md:text-3xl font-extrabold text-white flex items-center">
                     <img 
-                        src="/src/assets/Group 2.png" 
+                        src="/public/images/Group 2.png" 
                         alt="MyBindle Logo"
                         className="h-8 mr-2" 
                     />
@@ -43,13 +43,12 @@ const Hero = () => {
                 </div>
             </div>
   
-              {/* Right Side - Image */}
+              {/* Image Section */}
               <div className="w-full lg:w-1/2 flex justify-center order-1 lg:order-2">
                 <div className="relative">
   
-                  {/* Main Image */}
                   <img
-                    src="/src/assets/Group 1.png"
+                    src="/public/images/Group 1.png"
                     alt="MyBindle App Interface"
                     className="relative z-10 w-64 h-auto sm:w-80 md:w-96 lg:w-[400px] drop-shadow-2xl transform hover:scale-105 transition-transform duration-500"
                   />
@@ -59,8 +58,8 @@ const Hero = () => {
           </div>
         </div>
       </section>
-    )
-  }
+    );
+  };
   
-  export default Hero
+  export default Hero;
   

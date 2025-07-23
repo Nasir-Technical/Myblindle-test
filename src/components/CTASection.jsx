@@ -29,7 +29,7 @@ const CTASection = () => {
               {/* First Phone */}
               <div className="relative z-20">
                 <img
-                  src="/src/assets/iPhone 14 Pro (1).png"
+                  src="/public/images/iPhone 14 Pro (1).png"
                   alt="Payment Methods Interface"
                   className="w-40 sm:w-48 md:w-56 lg:w-64 h-auto drop-shadow-2xl"
                 />
@@ -38,7 +38,7 @@ const CTASection = () => {
               {/* Second Phone */}
               <div className="relative z-20">
                 <img
-                  src="/src/assets/iPhone 14 Pro.png"
+                  src="/public/images/iPhone 14 Pro.png"
                   alt="Thank You Interface"
                   className="w-40 sm:w-48 md:w-56 lg:w-64 h-auto drop-shadow-2xl"
                 />
